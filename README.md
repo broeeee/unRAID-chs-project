@@ -35,8 +35,11 @@ https://raw.githubusercontent.com/KleinerSource/unRAID-chs-project/master/releas
 ---------------------------------------------------------------------
 PS:源作者改了名字，导致插件更新出错，我这边更新一下代码里的地址，绝不改名字和其他东西。还是大家多请插件作者喝茶～作者辛苦了～
 
-6.8.1  https://raw.githubusercontent.com/broeeee/unRAID-chs-project/master/release/urchs.681.plg
-6.8.2  https://raw.githubusercontent.com/broeeee/unRAID-chs-project/master/release/urchs.682.plg
-6.8.3  https://raw.githubusercontent.com/broeeee/unRAID-chs-project/master/release/urchs.683.plg
+6.8.1
+https://raw.githubusercontent.com/broeeee/unRAID-chs-project/master/release/urchs.681.plg
 
+6.8.2
+https://raw.githubusercontent.com/broeeee/unRAID-chs-project/master/release/urchs.682.plg
 
+6.8.3
+https://raw.githubusercontent.com/broeeee/unRAID-chs-project/master/release/urchs.683.plg
