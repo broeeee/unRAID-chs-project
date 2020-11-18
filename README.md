@@ -29,3 +29,8 @@ https://raw.githubusercontent.com/KleinerSource/unRAID-chs-project/master/releas
 <img src="https://github.com/KleinerSource/OpenWrt-CI/blob/master/files/fec628a827f9273fde43a928a06e48e.jpg?raw=true" width="300">
 
 遇到问题可以提交 ISSUES 给我.
+
+
+
+---------------------------------------------------------------------
+PS:源作者改了名字，导致插件更新出错，我这边更新一下作者地址，绝不改名字和其他东西
