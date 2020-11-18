@@ -12,10 +12,10 @@ unRAID 中文化项目
 输入插件地址  点击安装即可.
 
 unRaid 6.8.1
-https://raw.githubusercontent.com/KleinerSource/unRAID-chs-project/master/release/urchs.681.plg
+https://raw.githubusercontent.com/mxhi/unRAID-chs-project/master/release/urchs.681.plg
 
 unRaid 6.8.2 
-https://raw.githubusercontent.com/KleinerSource/unRAID-chs-project/master/release/urchs.682.plg
+https://raw.githubusercontent.com/mxhi/unRAID-chs-project/master/release/urchs.682.plg
 
 ### 注: 插件方式安装重启服务器受不影响, 如果要卸载插件 需要重启服务器才会生效.
 
@@ -33,4 +33,4 @@ https://raw.githubusercontent.com/KleinerSource/unRAID-chs-project/master/releas
 
 
 ---------------------------------------------------------------------
-PS:源作者改了名字，导致插件更新出错，我这边更新一下作者地址，绝不改名字和其他东西
+PS:源作者改了名字，导致插件更新出错，我这边更新一下作者地址，绝不改名字和其他东西，且plg下来还要改里面的内容。
